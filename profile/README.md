@@ -48,11 +48,7 @@ capabilities into products that are **simple to use, fast to value and flexible 
 
 ## Built with
 
-![TypeScript](https://img.shields.io/badge/TypeScript-155EEF?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-155EEF?logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-155EEF?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-155EEF?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-155EEF?logo=docker&logoColor=white)
+TypeScript · Node.js · Python · PostgreSQL · Docker
 
 ## Contact
 
