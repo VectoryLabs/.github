@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VectoryLabs/.github/main/profile/assets/vectory-lockup-stacked-dark.svg">
-  <img src="https://raw.githubusercontent.com/VectoryLabs/.github/main/profile/assets/vectory-lockup-stacked-light.svg" alt="Vectory Labs" width="236">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VectoryLabs/.github/main/profile/assets/vectory-stacked-dark.svg">
+  <img src="https://raw.githubusercontent.com/VectoryLabs/.github/main/profile/assets/vectory-stacked-light.svg" alt="Vectory Labs" width="236">
 </picture>
 
 ### Smarter. Simpler.
