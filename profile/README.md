@@ -44,7 +44,9 @@ Vectory Labs thiết kế và phát triển các sản phẩm phần mềm nghi�
 
 ## Contact
 
-Interested in working with us? Open a conversation through the
-[organization page](https://github.com/VectoryLabs) or reach the team at the address on our website.
+Interested in working with us?
+
+- 🌐 Website: [vectorylabs.net](https://vectorylabs.net)
+- ✉️ Email: [contact@vectorylabs.net](mailto:contact@vectorylabs.net)
 
 <sub>Most of our repositories are private. © Vectory Labs.</sub>
