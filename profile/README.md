@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VectoryLabs/.github/main/profile/assets/vectory-stacked-dark.svg">
-  <img src="https://raw.githubusercontent.com/VectoryLabs/.github/main/profile/assets/vectory-stacked-light.svg" alt="Vectory Labs" width="236">
+  <img src="https://raw.githubusercontent.com/VectoryLabs/.github/main/profile/assets/vectory-stacked-default.svg" alt="Vectory Labs" width="236">
 </picture>
 
 ### Smarter. Simpler.
