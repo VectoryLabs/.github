@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VectoryLabs/.github/main/profile/assets/vectory-stacked-dark.svg">
-  <img src="https://raw.githubusercontent.com/VectoryLabs/.github/main/profile/assets/vectory-stacked-default.svg" alt="Vectory Labs" width="236">
-</picture>
+<img src="https://raw.githubusercontent.com/VectoryLabs/.github/main/profile/assets/banner.svg" alt="Vectory Labs" width="100%">
 
 ### Smarter. Simpler.
 *Thông minh hơn. Đơn giản hơn.*
@@ -48,7 +45,11 @@ capabilities into products that are **simple to use, fast to value and flexible 
 
 ## Built with
 
-TypeScript · Node.js · Python · PostgreSQL · Docker
+![TypeScript](https://img.shields.io/badge/TypeScript-155EEF?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-155EEF?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-155EEF?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-155EEF?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-155EEF?logo=docker&logoColor=white)
 
 ## Contact
 
